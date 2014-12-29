@@ -1,0 +1,44 @@
+C:\Users\shaquiria\documents\visual studio 2010\Projects\Payroll_upgrade\Payroll_upgrade\bin\Debug\Payroll_upgrade.exe.config
+C:\Users\shaquiria\documents\visual studio 2010\Projects\Payroll_upgrade\Payroll_upgrade\bin\Debug\payrolldb.sdf
+C:\Users\shaquiria\documents\visual studio 2010\Projects\Payroll_upgrade\Payroll_upgrade\bin\Debug\Payroll_upgrade.exe
+C:\Users\shaquiria\documents\visual studio 2010\Projects\Payroll_upgrade\Payroll_upgrade\bin\Debug\Payroll_upgrade.pdb
+C:\Users\shaquiria\documents\visual studio 2010\Projects\Payroll_upgrade\Payroll_upgrade\bin\Debug\Payroll_upgrade.xml
+C:\Users\shaquiria\documents\visual studio 2010\Projects\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.Form1.resources
+C:\Users\shaquiria\documents\visual studio 2010\Projects\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.Resources.resources
+C:\Users\shaquiria\documents\visual studio 2010\Projects\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.vbproj.GenerateResource.Cache
+C:\Users\shaquiria\documents\visual studio 2010\Projects\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.exe
+C:\Users\shaquiria\documents\visual studio 2010\Projects\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.xml
+C:\Users\shaquiria\documents\visual studio 2010\Projects\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.pdb
+I:\Program images\Payroll_upgrade\Payroll_upgrade\bin\Debug\Payroll_upgrade.exe.config
+I:\Program images\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.exe
+I:\Program images\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.xml
+I:\Program images\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.pdb
+I:\Program images\Payroll_upgrade\Payroll_upgrade\bin\Debug\payrolldb.sdf
+I:\Program images\Payroll_upgrade\Payroll_upgrade\bin\Debug\Payroll_upgrade.exe
+I:\Program images\Payroll_upgrade\Payroll_upgrade\bin\Debug\Payroll_upgrade.pdb
+I:\Program images\Payroll_upgrade\Payroll_upgrade\bin\Debug\Payroll_upgrade.xml
+I:\Program images\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.Form1.resources
+I:\Program images\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.Resources.resources
+I:\Program images\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.vbproj.GenerateResource.Cache
+I:\My Programs\Payroll_upgrade\Payroll_upgrade\bin\Debug\Payroll_upgrade.exe.config
+I:\My Programs\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.exe
+I:\My Programs\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.xml
+I:\My Programs\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.pdb
+I:\My Programs\Payroll_upgrade\Payroll_upgrade\bin\Debug\payrolldb.sdf
+I:\My Programs\Payroll_upgrade\Payroll_upgrade\bin\Debug\Payroll_upgrade.exe
+I:\My Programs\Payroll_upgrade\Payroll_upgrade\bin\Debug\Payroll_upgrade.pdb
+I:\My Programs\Payroll_upgrade\Payroll_upgrade\bin\Debug\Payroll_upgrade.xml
+I:\My Programs\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.Form1.resources
+I:\My Programs\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.Resources.resources
+I:\My Programs\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.vbproj.GenerateResource.Cache
+C:\Users\shaquiria\Desktop\Payroll_upgrade\Payroll_upgrade\bin\Debug\Payroll_upgrade.exe.config
+C:\Users\shaquiria\Desktop\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.exe
+C:\Users\shaquiria\Desktop\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.xml
+C:\Users\shaquiria\Desktop\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.pdb
+C:\Users\shaquiria\Desktop\Payroll_upgrade\Payroll_upgrade\bin\Debug\payrolldb.sdf
+C:\Users\shaquiria\Desktop\Payroll_upgrade\Payroll_upgrade\bin\Debug\Payroll_upgrade.exe
+C:\Users\shaquiria\Desktop\Payroll_upgrade\Payroll_upgrade\bin\Debug\Payroll_upgrade.pdb
+C:\Users\shaquiria\Desktop\Payroll_upgrade\Payroll_upgrade\bin\Debug\Payroll_upgrade.xml
+C:\Users\shaquiria\Desktop\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.Form1.resources
+C:\Users\shaquiria\Desktop\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.Resources.resources
+C:\Users\shaquiria\Desktop\Payroll_upgrade\Payroll_upgrade\obj\x86\Debug\Payroll_upgrade.vbproj.GenerateResource.Cache
